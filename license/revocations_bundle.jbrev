@@ -1,0 +1,15 @@
+﻿{
+  "productCode": "JBACKLOG_MVP",
+  "issuedAtUtc": "2026-05-07T08:29:31.5746723Z",
+  "entries": [
+    {
+      "licenseId": "adc704aafd0346cda10abc5719e115c1",
+      "machineFingerprint": "7BC4701BE664BAC2075C2FC55E2FDCECB2836E578244A8A9A9CC455CC3D550D3",
+      "customerName": "OsOO nur",
+      "reason": "\u041B\u0438\u0446\u0435\u043D\u0437\u0438\u044F \u043E\u0442\u043E\u0437\u0432\u0430\u043D\u0430 \u043F\u043E\u0434\u0434\u0435\u0440\u0436\u043A\u043E\u0439",
+      "revokedAtUtc": "2026-05-07T08:29:31.5746267Z",
+      "notes": null
+    }
+  ],
+  "signature": "xcam3MbQ5Q7vzBQkJySy51ztaRNC/rUvdeOgJc9DNV92GWVirCX6OE0GpoVgH7\u002Bv7f4zMGS/zRIWH3LWjTo7znChOfj0E543v1/ZCnBB3PDS74dl/r0\u002Biu\u002Bwt5AaUm0geGhSDg0L/0pSilc7fhU5qKsovjS032K/3Q9XCpTCjsP57TTTov8qMK5ua7kFCNBdMUWNF/H6mEAt7YEtoUp2\u002BOLr4A8ZAFh\u002BMj7tv70Vq8xrdJLPGVlpQ0NaJgzAt3yzzSQt6xcWxgSs8uLN4wCr5tEdsUYIde3clnYs5PVtMsq25tfPB8NFPLfjTSZfTwBPY5uTmgvQdLaVO3UmJg/8ng=="
+}
