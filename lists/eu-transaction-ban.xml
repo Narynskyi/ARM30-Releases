@@ -1,0 +1,875 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EuTransactionBanList>
+  <Meta>
+    <Title>Организации под запретом транзакций Европейского союза</Title>
+    <LegalBasis>Регламент Совета (ЕС) № 833/2014, приложения XIV, XLIV, XLV</LegalBasis>
+    <LastAmendedBy>Регламент Совета (ЕС) 2026/506 от 23 апреля 2026 года</LastAmendedBy>
+    <CompiledOn>2026-09-07</CompiledOn>
+    <Note>Наименования перенесены из официального текста регламента дословно. Русские наименования приведены справочно, чтобы перечень находился по запросу на русском языке; юридическую силу имеет написание из регламента.</Note>
+  </Meta>
+  <Entity>
+    <Name>Bank Otkritie</Name>
+    <NameRu>Банк «Открытие»</NameRu>
+    <Alias>ФК Открытие</Alias>
+    <Alias>Открытие</Alias>
+    <Annex>XIV</Annex>
+    <Article>5h</Article>
+    <Measure>Полный запрет транзакций</Measure>
+    <Country>Российская Федерация</Country>
+    <AppliesFrom>2022-03-12</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>Novikombank</Name>
+    <NameRu>Новикомбанк</NameRu>
+    <Annex>XIV</Annex>
+    <Article>5h</Article>
+    <Measure>Полный запрет транзакций</Measure>
+    <Country>Российская Федерация</Country>
+    <AppliesFrom>2022-03-12</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>Promsvyazbank</Name>
+    <NameRu>Промсвязьбанк</NameRu>
+    <Alias>ПСБ</Alias>
+    <Annex>XIV</Annex>
+    <Article>5h</Article>
+    <Measure>Полный запрет транзакций</Measure>
+    <Country>Российская Федерация</Country>
+    <AppliesFrom>2022-03-12</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>Bank Rossiya</Name>
+    <NameRu>Банк «Россия»</NameRu>
+    <Alias>АБ «Россия»</Alias>
+    <Annex>XIV</Annex>
+    <Article>5h</Article>
+    <Measure>Полный запрет транзакций</Measure>
+    <Country>Российская Федерация</Country>
+    <AppliesFrom>2022-03-12</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>Sovcombank</Name>
+    <NameRu>Совкомбанк</NameRu>
+    <Annex>XIV</Annex>
+    <Article>5h</Article>
+    <Measure>Полный запрет транзакций</Measure>
+    <Country>Российская Федерация</Country>
+    <AppliesFrom>2022-03-12</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>VNESHECONOMBANK (VEB)</Name>
+    <NameRu>Внешэкономбанк</NameRu>
+    <Alias>ВЭБ.РФ</Alias>
+    <Alias>ВЭБ</Alias>
+    <Annex>XIV</Annex>
+    <Article>5h</Article>
+    <Measure>Полный запрет транзакций</Measure>
+    <Country>Российская Федерация</Country>
+    <AppliesFrom>2022-03-12</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>VTB BANK</Name>
+    <NameRu>Банк ВТБ</NameRu>
+    <Alias>ВТБ</Alias>
+    <Annex>XIV</Annex>
+    <Article>5h</Article>
+    <Measure>Полный запрет транзакций</Measure>
+    <Country>Российская Федерация</Country>
+    <AppliesFrom>2022-03-12</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>Sberbank</Name>
+    <NameRu>Сбербанк</NameRu>
+    <Alias>Сбер</Alias>
+    <Annex>XIV</Annex>
+    <Article>5h</Article>
+    <Measure>Полный запрет транзакций</Measure>
+    <Country>Российская Федерация</Country>
+    <AppliesFrom>2022-06-14</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>Credit Bank of Moscow</Name>
+    <NameRu>Московский кредитный банк</NameRu>
+    <Alias>МКБ</Alias>
+    <Annex>XIV</Annex>
+    <Article>5h</Article>
+    <Measure>Полный запрет транзакций</Measure>
+    <Country>Российская Федерация</Country>
+    <AppliesFrom>2022-06-14</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>Joint Stock Company Russian Agricultural Bank, JSC Rosselkhozbank</Name>
+    <NameRu>Россельхозбанк</NameRu>
+    <Alias>АО «Россельхозбанк»</Alias>
+    <Annex>XIV</Annex>
+    <Article>5h</Article>
+    <Measure>Полный запрет транзакций</Measure>
+    <Country>Российская Федерация</Country>
+    <AppliesFrom>2022-06-14</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>Ak Bars Bank</Name>
+    <NameRu>Ак Барс Банк</NameRu>
+    <Alias>АК БАРС</Alias>
+    <Annex>XIV</Annex>
+    <Article>5h</Article>
+    <Measure>Полный запрет транзакций</Measure>
+    <Country>Российская Федерация</Country>
+    <AppliesFrom>2025-03-17</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>Uralsib Bank</Name>
+    <NameRu>Банк Уралсиб</NameRu>
+    <Alias>Уралсиб</Alias>
+    <Annex>XIV</Annex>
+    <Article>5h</Article>
+    <Measure>Полный запрет транзакций</Measure>
+    <Country>Российская Федерация</Country>
+    <AppliesFrom>2025-03-17</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>Tochka Bank</Name>
+    <NameRu>Банк Точка</NameRu>
+    <Alias>Точка</Alias>
+    <Annex>XIV</Annex>
+    <Article>5h</Article>
+    <Measure>Полный запрет транзакций</Measure>
+    <Country>Российская Федерация</Country>
+    <AppliesFrom>2025-03-17</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>National Reserve Bank</Name>
+    <NameRu>Национальный резервный банк</NameRu>
+    <Alias>НРБанк</Alias>
+    <Annex>XIV</Annex>
+    <Article>5h</Article>
+    <Measure>Полный запрет транзакций</Measure>
+    <Country>Российская Федерация</Country>
+    <AppliesFrom>2025-03-17</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>Roseximbank</Name>
+    <NameRu>Росэксимбанк</NameRu>
+    <Annex>XIV</Annex>
+    <Article>5h</Article>
+    <Measure>Полный запрет транзакций</Measure>
+    <Country>Российская Федерация</Country>
+    <AppliesFrom>2025-03-17</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>Bank SINARA</Name>
+    <NameRu>Банк Синара</NameRu>
+    <Alias>Синара</Alias>
+    <Annex>XIV</Annex>
+    <Article>5h</Article>
+    <Measure>Полный запрет транзакций</Measure>
+    <Country>Российская Федерация</Country>
+    <AppliesFrom>2025-03-17</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>Primsotsbank</Name>
+    <NameRu>Примсоцбанк</NameRu>
+    <Annex>XIV</Annex>
+    <Article>5h</Article>
+    <Measure>Полный запрет транзакций</Measure>
+    <Country>Российская Федерация</Country>
+    <AppliesFrom>2025-03-17</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>BBR Bank</Name>
+    <NameRu>ББР Банк</NameRu>
+    <Annex>XIV</Annex>
+    <Article>5h</Article>
+    <Measure>Полный запрет транзакций</Measure>
+    <Country>Российская Федерация</Country>
+    <AppliesFrom>2025-03-17</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>RNKO Platezhnyy Konstruktor</Name>
+    <NameRu>РНКО «Платёжный конструктор»</NameRu>
+    <Alias>Платежный конструктор</Alias>
+    <Annex>XIV</Annex>
+    <Article>5h</Article>
+    <Measure>Полный запрет транзакций</Measure>
+    <Country>Российская Федерация</Country>
+    <AppliesFrom>2025-03-17</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>Petersburg’s settlement center</Name>
+    <NameRu>Петербургский расчётный центр</NameRu>
+    <Alias>ПРЦ</Alias>
+    <Annex>XIV</Annex>
+    <Article>5h</Article>
+    <Measure>Полный запрет транзакций</Measure>
+    <Country>Российская Федерация</Country>
+    <AppliesFrom>2025-03-17</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>Kuznets business Bank</Name>
+    <NameRu>Кузнецкбизнесбанк</NameRu>
+    <Annex>XIV</Annex>
+    <Article>5h</Article>
+    <Measure>Полный запрет транзакций</Measure>
+    <Country>Российская Федерация</Country>
+    <AppliesFrom>2025-03-17</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>MIR Business Bank</Name>
+    <NameRu>Мир Бизнес Банк</NameRu>
+    <Annex>XIV</Annex>
+    <Article>5h</Article>
+    <Measure>Полный запрет транзакций</Measure>
+    <Country>Российская Федерация</Country>
+    <AppliesFrom>2025-03-17</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>Bank Kuban Kredit</Name>
+    <NameRu>Банк «Кубань Кредит»</NameRu>
+    <Alias>Кубань Кредит</Alias>
+    <Annex>XIV</Annex>
+    <Article>5h</Article>
+    <Measure>Полный запрет транзакций</Measure>
+    <Country>Российская Федерация</Country>
+    <AppliesFrom>2025-03-17</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>T-bank</Name>
+    <NameRu>Т-Банк</NameRu>
+    <Alias>Тинькофф Банк</Alias>
+    <Alias>Тинькофф</Alias>
+    <Annex>XIV</Annex>
+    <Article>5h</Article>
+    <Measure>Полный запрет транзакций</Measure>
+    <Country>Российская Федерация</Country>
+    <AppliesFrom>2025-08-09</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>Bank Saint Petersburg</Name>
+    <NameRu>Банк «Санкт-Петербург»</NameRu>
+    <Alias>БСПБ</Alias>
+    <Annex>XIV</Annex>
+    <Article>5h</Article>
+    <Measure>Полный запрет транзакций</Measure>
+    <Country>Российская Федерация</Country>
+    <AppliesFrom>2025-08-09</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>Bank Centrocredit</Name>
+    <NameRu>Банк «Центрокредит»</NameRu>
+    <Alias>Центрокредит</Alias>
+    <Annex>XIV</Annex>
+    <Article>5h</Article>
+    <Measure>Полный запрет транзакций</Measure>
+    <Country>Российская Федерация</Country>
+    <AppliesFrom>2025-08-09</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>Yandex bank</Name>
+    <NameRu>Яндекс Банк</NameRu>
+    <Annex>XIV</Annex>
+    <Article>5h</Article>
+    <Measure>Полный запрет транзакций</Measure>
+    <Country>Российская Федерация</Country>
+    <AppliesFrom>2025-08-09</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>Surgutneftegazbank</Name>
+    <NameRu>Сургутнефтегазбанк</NameRu>
+    <Annex>XIV</Annex>
+    <Article>5h</Article>
+    <Measure>Полный запрет транзакций</Measure>
+    <Country>Российская Федерация</Country>
+    <AppliesFrom>2025-08-09</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>Metcombank</Name>
+    <NameRu>Меткомбанк</NameRu>
+    <Annex>XIV</Annex>
+    <Article>5h</Article>
+    <Measure>Полный запрет транзакций</Measure>
+    <Country>Российская Федерация</Country>
+    <AppliesFrom>2025-08-09</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>Severgazbank</Name>
+    <NameRu>Севергазбанк</NameRu>
+    <Annex>XIV</Annex>
+    <Article>5h</Article>
+    <Measure>Полный запрет транзакций</Measure>
+    <Country>Российская Федерация</Country>
+    <AppliesFrom>2025-08-09</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>Genbank</Name>
+    <NameRu>Генбанк</NameRu>
+    <Annex>XIV</Annex>
+    <Article>5h</Article>
+    <Measure>Полный запрет транзакций</Measure>
+    <Country>Российская Федерация</Country>
+    <AppliesFrom>2025-08-09</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>Bystrobank</Name>
+    <NameRu>Быстробанк</NameRu>
+    <Annex>XIV</Annex>
+    <Article>5h</Article>
+    <Measure>Полный запрет транзакций</Measure>
+    <Country>Российская Федерация</Country>
+    <AppliesFrom>2025-08-09</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>Energotransbank</Name>
+    <NameRu>Энерготрансбанк</NameRu>
+    <Annex>XIV</Annex>
+    <Article>5h</Article>
+    <Measure>Полный запрет транзакций</Measure>
+    <Country>Российская Федерация</Country>
+    <AppliesFrom>2025-08-09</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>Tatsotsbank</Name>
+    <NameRu>Татсоцбанк</NameRu>
+    <Annex>XIV</Annex>
+    <Article>5h</Article>
+    <Measure>Полный запрет транзакций</Measure>
+    <Country>Российская Федерация</Country>
+    <AppliesFrom>2025-08-09</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>Bank Zenit</Name>
+    <NameRu>Банк «Зенит»</NameRu>
+    <Alias>Зенит</Alias>
+    <Annex>XIV</Annex>
+    <Article>5h</Article>
+    <Measure>Полный запрет транзакций</Measure>
+    <Country>Российская Федерация</Country>
+    <AppliesFrom>2025-08-09</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>Transstroybank</Name>
+    <NameRu>Трансстройбанк</NameRu>
+    <Annex>XIV</Annex>
+    <Article>5h</Article>
+    <Measure>Полный запрет транзакций</Measure>
+    <Country>Российская Федерация</Country>
+    <AppliesFrom>2025-08-09</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>Bank FINAM</Name>
+    <NameRu>Банк «Финам»</NameRu>
+    <Alias>Финам</Alias>
+    <Annex>XIV</Annex>
+    <Article>5h</Article>
+    <Measure>Полный запрет транзакций</Measure>
+    <Country>Российская Федерация</Country>
+    <AppliesFrom>2025-08-09</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>Ozon bank</Name>
+    <NameRu>Озон Банк</NameRu>
+    <Alias>Ozon Банк</Alias>
+    <Annex>XIV</Annex>
+    <Article>5h</Article>
+    <Measure>Полный запрет транзакций</Measure>
+    <Country>Российская Федерация</Country>
+    <AppliesFrom>2025-08-09</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>Ekspobank</Name>
+    <NameRu>Экспобанк</NameRu>
+    <Annex>XIV</Annex>
+    <Article>5h</Article>
+    <Measure>Полный запрет транзакций</Measure>
+    <Country>Российская Федерация</Country>
+    <AppliesFrom>2025-08-09</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>LOCKO Bank</Name>
+    <NameRu>Локо-Банк</NameRu>
+    <Alias>Локо Банк</Alias>
+    <Annex>XIV</Annex>
+    <Article>5h</Article>
+    <Measure>Полный запрет транзакций</Measure>
+    <Country>Российская Федерация</Country>
+    <AppliesFrom>2025-08-09</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>Bank DOM.RF</Name>
+    <NameRu>Банк ДОМ.РФ</NameRu>
+    <Alias>ДОМ.РФ</Alias>
+    <Annex>XIV</Annex>
+    <Article>5h</Article>
+    <Measure>Полный запрет транзакций</Measure>
+    <Country>Российская Федерация</Country>
+    <AppliesFrom>2025-08-09</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>SME Bank</Name>
+    <NameRu>МСП Банк</NameRu>
+    <Annex>XIV</Annex>
+    <Article>5h</Article>
+    <Measure>Полный запрет транзакций</Measure>
+    <Country>Российская Федерация</Country>
+    <AppliesFrom>2025-08-09</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>LANTA Bank</Name>
+    <NameRu>Ланта-Банк</NameRu>
+    <Alias>Ланта Банк</Alias>
+    <Annex>XIV</Annex>
+    <Article>5h</Article>
+    <Measure>Полный запрет транзакций</Measure>
+    <Country>Российская Федерация</Country>
+    <AppliesFrom>2025-08-09</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>Bank131</Name>
+    <NameRu>Банк 131</NameRu>
+    <Alias>Банк131</Alias>
+    <Alias>Bank 131</Alias>
+    <Annex>XIV</Annex>
+    <Article>5h</Article>
+    <Measure>Полный запрет транзакций</Measure>
+    <Country>Российская Федерация</Country>
+    <AppliesFrom>2025-08-09</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>Bank RostFinance</Name>
+    <NameRu>Банк «РостФинанс»</NameRu>
+    <Alias>РостФинанс</Alias>
+    <Annex>XIV</Annex>
+    <Article>5h</Article>
+    <Measure>Полный запрет транзакций</Measure>
+    <Country>Российская Федерация</Country>
+    <AppliesFrom>2025-08-09</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>NPO ‘Istina’ (JSC)</Name>
+    <NameRu>НКО «Истина»</NameRu>
+    <Alias>Истина</Alias>
+    <Annex>XIV</Annex>
+    <Article>5h</Article>
+    <Measure>Полный запрет транзакций</Measure>
+    <Country>Российская Федерация</Country>
+    <AppliesFrom>2025-11-12</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>LLC ‘Zemsky Bank’</Name>
+    <NameRu>ООО «Земский банк»</NameRu>
+    <Alias>Земский банк</Alias>
+    <Annex>XIV</Annex>
+    <Article>5h</Article>
+    <Measure>Полный запрет транзакций</Measure>
+    <Country>Российская Федерация</Country>
+    <AppliesFrom>2025-11-12</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>Commercial Bank Absolut Bank (PAO)</Name>
+    <NameRu>КБ «Абсолют Банк»</NameRu>
+    <Alias>Абсолют Банк</Alias>
+    <Annex>XIV</Annex>
+    <Article>5h</Article>
+    <Measure>Полный запрет транзакций</Measure>
+    <Country>Российская Федерация</Country>
+    <AppliesFrom>2025-11-12</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>PJSC ‘MTS Bank’</Name>
+    <NameRu>ПАО «МТС-Банк»</NameRu>
+    <Alias>МТС-Банк</Alias>
+    <Alias>МТС Банк</Alias>
+    <Annex>XIV</Annex>
+    <Article>5h</Article>
+    <Measure>Полный запрет транзакций</Measure>
+    <Country>Российская Федерация</Country>
+    <AppliesFrom>2025-11-12</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>JSC ‘ALFA-BANK’</Name>
+    <NameRu>АО «Альфа-Банк»</NameRu>
+    <Alias>Альфа-Банк</Alias>
+    <Alias>Альфа Банк</Alias>
+    <Annex>XIV</Annex>
+    <Article>5h</Article>
+    <Measure>Полный запрет транзакций</Measure>
+    <Country>Российская Федерация</Country>
+    <AppliesFrom>2025-11-12</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>Public Joint Stock Commercial Bank “DERZHAVA”</Name>
+    <NameRu>ПАО КБ «Держава»</NameRu>
+    <Alias>Держава</Alias>
+    <Annex>XIV</Annex>
+    <Article>5h</Article>
+    <Measure>Полный запрет транзакций</Measure>
+    <Country>Российская Федерация</Country>
+    <AppliesFrom>2026-05-14</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>Joint Stock Company BCS Bank</Name>
+    <NameRu>АО «БКС Банк»</NameRu>
+    <Alias>БКС Банк</Alias>
+    <Annex>XIV</Annex>
+    <Article>5h</Article>
+    <Measure>Полный запрет транзакций</Measure>
+    <Country>Российская Федерация</Country>
+    <AppliesFrom>2026-05-14</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>Public Joint Stock Company “LEVOBEREZHNY”</Name>
+    <NameRu>ПАО «Банк Левобережный»</NameRu>
+    <Alias>Левобережный</Alias>
+    <Annex>XIV</Annex>
+    <Article>5h</Article>
+    <Measure>Полный запрет транзакций</Measure>
+    <Country>Российская Федерация</Country>
+    <AppliesFrom>2026-05-14</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>Public Joint Stock Company SCB “Metallinvestbank”</Name>
+    <NameRu>ПАО АКБ «Металлинвестбанк»</NameRu>
+    <Alias>Металлинвестбанк</Alias>
+    <Annex>XIV</Annex>
+    <Article>5h</Article>
+    <Measure>Полный запрет транзакций</Measure>
+    <Country>Российская Федерация</Country>
+    <AppliesFrom>2026-05-14</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>Joint Stock Company Commercial Bank “Solidarnost”</Name>
+    <NameRu>АО КБ «Солидарность»</NameRu>
+    <Alias>Солидарность</Alias>
+    <Annex>XIV</Annex>
+    <Article>5h</Article>
+    <Measure>Полный запрет транзакций</Measure>
+    <Country>Российская Федерация</Country>
+    <AppliesFrom>2026-05-14</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>Limited Liability Company Bank Blanc</Name>
+    <NameRu>ООО «Банк Бланк»</NameRu>
+    <Alias>Банк Бланк</Alias>
+    <Annex>XIV</Annex>
+    <Article>5h</Article>
+    <Measure>Полный запрет транзакций</Measure>
+    <Country>Российская Федерация</Country>
+    <AppliesFrom>2026-05-14</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>Limited Liability Company BANK ITURUP</Name>
+    <NameRu>ООО «Банк Итуруп»</NameRu>
+    <Alias>Банк Итуруп</Alias>
+    <Annex>XIV</Annex>
+    <Article>5h</Article>
+    <Measure>Полный запрет транзакций</Measure>
+    <Country>Российская Федерация</Country>
+    <AppliesFrom>2026-05-14</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>Joint-Stock Commercial Bank “EVROFINANCE MOSNARBANK”</Name>
+    <NameRu>АКБ «Еврофинанс Моснарбанк»</NameRu>
+    <Alias>Еврофинанс Моснарбанк</Alias>
+    <Annex>XIV</Annex>
+    <Article>5h</Article>
+    <Measure>Полный запрет транзакций</Measure>
+    <Country>Российская Федерация</Country>
+    <AppliesFrom>2026-05-14</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>Joint Stock Commercial Bank FORA-BANK</Name>
+    <NameRu>АКБ «Фора-Банк»</NameRu>
+    <Alias>Фора-Банк</Alias>
+    <Annex>XIV</Annex>
+    <Article>5h</Article>
+    <Measure>Полный запрет транзакций</Measure>
+    <Country>Российская Федерация</Country>
+    <AppliesFrom>2026-05-14</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>Joint Stock Company Bank Russian Standard</Name>
+    <NameRu>АО «Банк Русский Стандарт»</NameRu>
+    <Alias>Русский Стандарт</Alias>
+    <Annex>XIV</Annex>
+    <Article>5h</Article>
+    <Measure>Полный запрет транзакций</Measure>
+    <Country>Российская Федерация</Country>
+    <AppliesFrom>2026-05-14</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>Public Joint Stock Company Ural Bank for Reconstruction and Development</Name>
+    <NameRu>ПАО «Уральский банк реконструкции и развития»</NameRu>
+    <Alias>УБРиР</Alias>
+    <Annex>XIV</Annex>
+    <Article>5h</Article>
+    <Measure>Полный запрет транзакций</Measure>
+    <Country>Российская Федерация</Country>
+    <AppliesFrom>2026-05-14</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>Chelyabinvestbank</Name>
+    <NameRu>Челябинвестбанк</NameRu>
+    <Annex>XIV</Annex>
+    <Article>5h</Article>
+    <Measure>Полный запрет транзакций</Measure>
+    <Country>Российская Федерация</Country>
+    <AppliesFrom>2026-05-14</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>Joint Stock Company “Petersburg Social Commercial Bank”</Name>
+    <NameRu>АО «Петербургский социальный коммерческий банк»</NameRu>
+    <Alias>ПСКБ</Alias>
+    <Annex>XIV</Annex>
+    <Article>5h</Article>
+    <Measure>Полный запрет транзакций</Measure>
+    <Country>Российская Федерация</Country>
+    <AppliesFrom>2026-05-14</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>Public Joint Stock Company “SDM-Bank”</Name>
+    <NameRu>ПАО «СДМ-Банк»</NameRu>
+    <Alias>СДМ-Банк</Alias>
+    <Annex>XIV</Annex>
+    <Article>5h</Article>
+    <Measure>Полный запрет транзакций</Measure>
+    <Country>Российская Федерация</Country>
+    <AppliesFrom>2026-05-14</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>Joint Stock Company “Bank Avers”</Name>
+    <NameRu>АО «Банк Аверс»</NameRu>
+    <Alias>Банк Аверс</Alias>
+    <Annex>XIV</Annex>
+    <Article>5h</Article>
+    <Measure>Полный запрет транзакций</Measure>
+    <Country>Российская Федерация</Country>
+    <AppliesFrom>2026-05-14</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>Commercial Bank “Khlynov” (Joint Stock Company)</Name>
+    <NameRu>КБ «Хлынов»</NameRu>
+    <Alias>Хлынов</Alias>
+    <Annex>XIV</Annex>
+    <Article>5h</Article>
+    <Measure>Полный запрет транзакций</Measure>
+    <Country>Российская Федерация</Country>
+    <AppliesFrom>2026-05-14</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>Joint Stock Company “Post Bank”</Name>
+    <NameRu>АО «Почта Банк»</NameRu>
+    <Alias>Почта Банк</Alias>
+    <Annex>XIV</Annex>
+    <Article>5h</Article>
+    <Measure>Полный запрет транзакций</Measure>
+    <Country>Российская Федерация</Country>
+    <AppliesFrom>2026-05-14</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>Limited Liability Company Wildberries Bank</Name>
+    <NameRu>ООО «Вайлдберриз Банк»</NameRu>
+    <Alias>Вайлдберриз Банк</Alias>
+    <Alias>Wildberries Банк</Alias>
+    <Annex>XIV</Annex>
+    <Article>5h</Article>
+    <Measure>Полный запрет транзакций</Measure>
+    <Country>Российская Федерация</Country>
+    <AppliesFrom>2026-05-14</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>Joint Stock Bank “AVANGARD”</Name>
+    <NameRu>АКБ «Авангард»</NameRu>
+    <Alias>Авангард</Alias>
+    <Annex>XIV</Annex>
+    <Article>5h</Article>
+    <Measure>Полный запрет транзакций</Measure>
+    <Country>Российская Федерация</Country>
+    <AppliesFrom>2026-05-14</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>Joint Stock Investment Commercial Bank “ENISEISK UNITED BANK”</Name>
+    <NameRu>АИКБ «Енисейский объединённый банк»</NameRu>
+    <Alias>Енисейский объединенный банк</Alias>
+    <Annex>XIV</Annex>
+    <Article>5h</Article>
+    <Measure>Полный запрет транзакций</Measure>
+    <Country>Российская Федерация</Country>
+    <AppliesFrom>2026-05-14</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>Bank BelVEB</Name>
+    <NameRu>Банк БелВЭБ</NameRu>
+    <Alias>БелВЭБ</Alias>
+    <Annex>XLIV</Annex>
+    <Article>5ac</Article>
+    <Measure>Запрет транзакций (организации вне ЕС)</Measure>
+    <AppliesFrom>2025-02-25</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>Belgazprombank</Name>
+    <NameRu>Белгазпромбанк</NameRu>
+    <Annex>XLIV</Annex>
+    <Article>5ac</Article>
+    <Measure>Запрет транзакций (организации вне ЕС)</Measure>
+    <AppliesFrom>2025-02-25</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>VTB Bank (PJSC) Shangai Branch</Name>
+    <NameRu>Шанхайский филиал Банка ВТБ</NameRu>
+    <Alias>ВТБ Шанхай</Alias>
+    <Annex>XLIV</Annex>
+    <Article>5ac</Article>
+    <Measure>Запрет транзакций (организации вне ЕС)</Measure>
+    <AppliesFrom>2025-02-25</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>CJSC Alfa-Bank (Belarus)</Name>
+    <NameRu>ЗАО «Альфа-Банк» (Беларусь)</NameRu>
+    <Alias>Альфа-Банк Беларусь</Alias>
+    <Annex>XLIV</Annex>
+    <Article>5ac</Article>
+    <Measure>Запрет транзакций (организации вне ЕС)</Measure>
+    <Country>Республика Беларусь</Country>
+    <AppliesFrom>2025-12-02</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>OJSC Sber Bank (Belarus)</Name>
+    <NameRu>ОАО «Сбер Банк» (Беларусь)</NameRu>
+    <Alias>Сбер Банк Беларусь</Alias>
+    <Annex>XLIV</Annex>
+    <Article>5ac</Article>
+    <Measure>Запрет транзакций (организации вне ЕС)</Measure>
+    <Country>Республика Беларусь</Country>
+    <AppliesFrom>2025-12-02</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>VTB Bank (Belarus)</Name>
+    <NameRu>Банк ВТБ (Беларусь)</NameRu>
+    <Alias>ВТБ Беларусь</Alias>
+    <Annex>XLIV</Annex>
+    <Article>5ac</Article>
+    <Measure>Запрет транзакций (организации вне ЕС)</Measure>
+    <Country>Республика Беларусь</Country>
+    <AppliesFrom>2025-12-02</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>VTB Bank (Kazakhstan)</Name>
+    <NameRu>Банк ВТБ (Казахстан)</NameRu>
+    <Alias>ВТБ Казахстан</Alias>
+    <Annex>XLIV</Annex>
+    <Article>5ac</Article>
+    <Measure>Запрет транзакций (организации вне ЕС)</Measure>
+    <Country>Республика Казахстан</Country>
+    <AppliesFrom>2025-12-02</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>Yelo Bank (Azerbaijan)</Name>
+    <NameRu>Yelo Bank (Азербайджан)</NameRu>
+    <Alias>Ело Банк</Alias>
+    <Annex>XLIV</Annex>
+    <Article>5ac</Article>
+    <Measure>Запрет транзакций (организации вне ЕС)</Measure>
+    <Country>Азербайджанская Республика</Country>
+    <AppliesFrom>2026-05-14</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>Payeer</Name>
+    <Annex>XLV, часть A</Annex>
+    <Article>5ad</Article>
+    <Measure>Запрет транзакций (кредитные и финансовые организации вне ЕС)</Measure>
+    <AppliesFrom>2025-11-25</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>CJSB JSCB Tolubay</Name>
+    <NameRu>ЗАО АКБ «Толубай»</NameRu>
+    <Alias>Толубай Банк</Alias>
+    <Alias>Толубай</Alias>
+    <Annex>XLV, часть A</Annex>
+    <Article>5ad</Article>
+    <Measure>Запрет транзакций (кредитные и финансовые организации вне ЕС)</Measure>
+    <Country>Кыргызская Республика</Country>
+    <AppliesFrom>2025-11-12</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>OJSC Eurasian Savings Bank</Name>
+    <NameRu>ОАО «Евразийский сберегательный банк»</NameRu>
+    <Alias>Евразийский сберегательный банк</Alias>
+    <Annex>XLV, часть A</Annex>
+    <Article>5ad</Article>
+    <Measure>Запрет транзакций (кредитные и финансовые организации вне ЕС)</Measure>
+    <Country>Кыргызская Республика</Country>
+    <AppliesFrom>2025-11-12</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>Joint Development Bank (Laos)</Name>
+    <NameRu>Joint Development Bank (Лаос)</NameRu>
+    <Annex>XLV, часть A</Annex>
+    <Article>5ad</Article>
+    <Measure>Запрет транзакций (кредитные и финансовые организации вне ЕС)</Measure>
+    <Country>Лаосская Народно-Демократическая Республика</Country>
+    <AppliesFrom>2026-05-14</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>Keremet bank (Kyrgyzstan)</Name>
+    <NameRu>ОАО «Керемет Банк»</NameRu>
+    <Alias>Керемет Банк</Alias>
+    <Alias>Керемет</Alias>
+    <Annex>XLV, часть B</Annex>
+    <Article>5ad</Article>
+    <Measure>Запрет транзакций (кредитные и финансовые организации вне ЕС)</Measure>
+    <Country>Кыргызская Республика</Country>
+    <AppliesFrom>2026-05-14</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>OJSC Capital Bank of Central Asia (Kyrgyzstan)</Name>
+    <NameRu>ОАО «Капитал Банк Центральной Азии»</NameRu>
+    <Alias>Капитал Банк Центральной Азии</Alias>
+    <Alias>КБЦА</Alias>
+    <Annex>XLV, часть B</Annex>
+    <Article>5ad</Article>
+    <Measure>Запрет транзакций (кредитные и финансовые организации вне ЕС)</Measure>
+    <Country>Кыргызская Республика</Country>
+    <AppliesFrom>2026-05-14</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>Blackford Corporation Limited</Name>
+    <Annex>XLV, часть C</Annex>
+    <Article>5ad</Article>
+    <Measure>Запрет транзакций (содействие обходу ограничений)</Measure>
+    <AppliesFrom>2025-11-12</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>Fuel and Oil Dynamics FZE</Name>
+    <Annex>XLV, часть C</Annex>
+    <Article>5ad</Article>
+    <Measure>Запрет транзакций (содействие обходу ограничений)</Measure>
+    <AppliesFrom>2025-11-12</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>Arneis</Name>
+    <Annex>XLV, часть D</Annex>
+    <Article>5ad</Article>
+    <Measure>Запрет транзакций (проведение международных расчётов)</Measure>
+    <AppliesFrom>2026-05-14</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>Asia Import Group</Name>
+    <Annex>XLV, часть D</Annex>
+    <Article>5ad</Article>
+    <Measure>Запрет транзакций (проведение международных расчётов)</Measure>
+    <AppliesFrom>2026-05-14</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>GPAgent</Name>
+    <Annex>XLV, часть D</Annex>
+    <Article>5ad</Article>
+    <Measure>Запрет транзакций (проведение международных расчётов)</Measure>
+    <AppliesFrom>2026-05-14</AppliesFrom>
+  </Entity>
+  <Entity>
+    <Name>Platejka</Name>
+    <Annex>XLV, часть D</Annex>
+    <Article>5ad</Article>
+    <Measure>Запрет транзакций (проведение международных расчётов)</Measure>
+    <AppliesFrom>2026-05-14</AppliesFrom>
+  </Entity>
+</EuTransactionBanList>
